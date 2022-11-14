@@ -14,4 +14,4 @@
 
 > Check out the sample output of the project below and also to check on web click on below link.
 
-- > [Click Me](https://beautiful-conkies-659fac.netlify.app)
+- > [Click Me](https://delicate-puppy-a3f3c8.netlify.app/)
