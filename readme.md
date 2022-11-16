@@ -1,6 +1,6 @@
 # Paytm Clone
 
-> I have learnt basics of HTML and CSS in this project.
+> I have learnt about Tailwind in this project.
 
 > It took me around 12 hours to complete this project.
 
