@@ -1,8 +1,8 @@
 # Paytm Clone
 
-> i have learnt basics of HTML and CSS in this project.
+> I have learnt basics of HTML and CSS in this project.
 
-> it took me around 8 and half hours to complete this project.
+> It took me around 12 hours to complete this project.
 
 ### Tools Used:
 
